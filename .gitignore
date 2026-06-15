@@ -1,0 +1,17 @@
+# Unreal Engine generated files
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.sln.DotSettings.user
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
